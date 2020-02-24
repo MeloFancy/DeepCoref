@@ -10,6 +10,10 @@ Source code for paper A Deep Context-wise Method for Coreference Detection in Na
 - tests_samples/CoRef:
     - directory for training (train.tsv) and testing data (dev.tsv)
 
+# Requirements
+   
+- [BERT for pytorch](https://github.com/huggingface/transformers)
+
 # Run
 
 - main script: run_.py
