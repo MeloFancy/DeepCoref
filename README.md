@@ -1,7 +1,5 @@
 # DeepCoref
 
-Source code for paper A Deep Context-wise Method for Coreference Detection in Natural Language Requirements
-
 # Directory
 
 - pretrained_model:
