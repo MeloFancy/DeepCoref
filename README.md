@@ -1,6 +1,6 @@
 # DeepCoref
 
-# Directory
+## Directory
 
 - pretrained_model:
     - [Word Embeddings](https://github.com/Embedding/Chinese-Word-Vectors)
@@ -8,10 +8,10 @@
 - tests_samples/CoRef:
     - directory for training (train.tsv) and testing data (dev.tsv)
 
-# Requirements
+## Requirements
    
 - [BERT for pytorch](https://github.com/huggingface/transformers)
 
-# Run
+## Run
 
 - main script: run_.py
